@@ -1,0 +1,1 @@
+{"@timestamp":"2024-03-18T22:09:18.591+08:00","caller":"internal/log.go:82","content":"(/file/upload - 127.0.0.1:1598) request entity too large, limit is 8388608, but got 15818928, rejected with code 413","level":"error","span":"d5040c2b7849450e","trace":"c125a0ae1ca8046065d41e876daa578d"}
